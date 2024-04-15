@@ -25,6 +25,7 @@ Using the print function, display the distance between the two points.
 
 End the program.
 ### PROGRAM:
+```
 #A python program to calculate distance between two points.
 #Developed By: ARJUN N S
 #Register Number: 212223230020
@@ -33,6 +34,7 @@ x1, y1 = 4, 2
 x2, y2 = 10, 6
 distance = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
 print("{:.2f}".format(distance))
+```
 
 ### OUTPUT:
 ![image](https://github.com/NSArjun/DISTANCE-BETWEEN-TWO-POINTS/assets/148233801/dcedade2-4680-48d7-9949-49bb8b7a0155)
